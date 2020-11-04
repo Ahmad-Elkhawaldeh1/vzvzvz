@@ -1,5 +1,9 @@
-
-int button0ne = 5;
+!/2 Adder with arduino
+created by: Ahmad El-khawaldeh
+created on: Nov 4
+  
+ 
+int buttonOne = 5;
 int buttonTwo = 2;
 
 void setup() {
