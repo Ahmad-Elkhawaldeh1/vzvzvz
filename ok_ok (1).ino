@@ -1,4 +1,4 @@
-!/2 Adder with arduino
+1/2 Adder with arduino
 created by: Ahmad El-khawaldeh
 created on: Nov 4
   
